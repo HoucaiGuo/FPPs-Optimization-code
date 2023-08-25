@@ -5,4 +5,4 @@ If you find this repository useful, please cite our paper: Guo, H., Xu, H., Wei,
 
 Note: Please visit https://www.lfd.uci.edu/~gohlke/pythonlibs/ to download the .whl file for GDAL and Rasterio (if needed).
 
-![image](https://github.com/HoucaiGuo/FPPs-Optimization-code/blob/main/flow%20chart.tif)
+![image](https://github.com/HoucaiGuo/FPPs-Optimization-code/blob/main/flow%20chart.png)
