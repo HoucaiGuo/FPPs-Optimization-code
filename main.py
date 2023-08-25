@@ -25,9 +25,10 @@ tin_tarr_threshold = 1.05
 # similarity measurement, default "ssim"
 similarity_criterion = "ssim"
 
-# intput and output path
+# intput path
 f_img_path = r"data/f_img.tif"
 m_img_path = r"data/m_img.tif"
+# output path
 f_initial_pts_path = r"data/f_pts.csv"
 m_initial_pts_path = r"data/m_pts.csv"
 f_inliers_path = r"data/f_inliers.csv"
